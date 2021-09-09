@@ -60,10 +60,8 @@ protobuf==3.17.3
 pyarrow==5.0.0
 pycparser==2.20
 pydeck==0.7.0
-pydot @ file:///C:/ci/pydot_1615395156703/work
 Pygments==2.10.0
 pygraphviz==1.5
-pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
 pyrsistent==0.18.0
 python-dateutil==2.8.2
 pytz==2021.1
